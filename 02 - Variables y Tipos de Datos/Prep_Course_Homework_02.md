@@ -2,17 +2,30 @@
 
 1) Crear una variable que contenga un elemento del conjunto de números enteros y luego imprimir por pantalla
 
+mi_var= 45
+
+print(mi_var)
+
+
 2) Imprimir el tipo de dato de la constante 8.5
 
 3) Imprimir el tipo de dato de la variable creada en el punto 1
 
 4) Crear una variable que contenga tu nombre
 
+mi_var1 = 'joaquin'
+
 5) Crear una variable que contenga un número complejo
+
+mi_var2 = 4 + 1j
 
 6) Mostrar el tipo de dato de la variable crada en el punto 5
 
+type(mi_var2)
+
 7) Crear una variable que contenga el valor del número Pi redondeado a 4 decimales
+
+
 
 8) Crear una variable que contenga el valor 'True' y otra que contenga el valor True. ¿Se trata de lo mismo?
 
