@@ -8,13 +8,13 @@
 # In[4]:
 
 
-a = 10
+a = 0
 if (a < 0):
     print('La variable es menor a cero')
-elif (a > 0): 
-    print('La varaible es mayor a cero')
-else:
+elif (a == 0): 
     print('La variable es igual a cero')
+else:
+    print('La variable es mayor a cero')
 
 
 # 2) Crear dos variables y un condicional que informe si son del mismo tipo de dato
@@ -23,7 +23,7 @@ else:
 
 
 a = 2
-b = 'hola'
+b = 4
 if (type(a) == type(b)):
     print('Las variables son del mismo tipo de dato')
 else:
